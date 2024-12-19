@@ -12,7 +12,7 @@
 
 - 🏢 I'm a Software Engineer, passionate about web Development. 
 - 👨‍💻 I constantly learn and explore new technologies to improve my skills.
-- 💬 Ask me about my experience with SQL, Entity Framework core, C#, HTML, CSS, Bootstrap, Javascript, or anything related to ASP.Net web development.
+- 💬 Ask me about my experience with SQL, Entity Framework Core, C#, HTML, CSS, Bootstrap, Javascript, or anything related to ASP.Net web development.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 
 ### Connect with Me :
