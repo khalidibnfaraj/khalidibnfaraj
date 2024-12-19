@@ -18,6 +18,9 @@
 ### Connect with Me :
 
 <a href="https://linkedin.com/in/khalidfaraj" target="_blank"><img src="https://img.shields.io/badge/-Khalid%20Faraj-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://wa.me/01012900652" target="_blank">
+  <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
 <a href="https://t.me/khalidibnfaraj" target="_blank"><img src="https://img.shields.io/badge/-Khalid%20Faraj-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 
 ### 🛠 &nbsp;Tech Stack
