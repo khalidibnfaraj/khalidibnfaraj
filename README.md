@@ -12,7 +12,7 @@
 
 - 🏢 I'm a Software Engineer, passionate about web Development. 
 - 👨‍💻 I constantly learn and explore new technologies to improve my skills.
-- 💬 Ask me about my experience with SQL, Entity Framework Core, C#, HTML, CSS, Bootstrap, Javascript, or anything related to ASP.Net web development.
+- 💬 Ask me about my experience with SQL, C#, LINQ, Entity Framework Core, HTML, CSS, Bootstrap, Javascript, or anything related to ASP.Net web development.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 
 ### Connect with Me :
@@ -21,14 +21,15 @@
 <a href="https://t.me/khalidibnfaraj" target="_blank"><img src="https://img.shields.io/badge/-Khalid%20Faraj-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 
 ### 🛠 &nbsp;Tech Stack
-![ASP.NET](https://img.shields.io/badge/-ASP.NET-05122A?style=flat&logo=.net&logoColor=white)&nbsp;
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)&nbsp;
 ![SQL](https://img.shields.io/badge/-%20SQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)&nbsp;
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)&nbsp;
+![LINQ](https://img.shields.io/badge/-%20LINQ-CC2927?style=flat&logoColor=white)&nbsp;
 ![Entity Framework Core](https://img.shields.io/badge/-EF%20Core-512BD4?style=flat&logo=dotnet&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
+![ASP.NET](https://img.shields.io/badge/-ASP.NET-05122A?style=flat&logo=.net&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)&nbsp;
