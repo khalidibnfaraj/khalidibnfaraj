@@ -10,7 +10,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20Web%20Developer;Always%20Learning%20New%20Things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-- 🏢 I'm a Software Engineer, passionate about web Development. 
+- 🏢 I'm a Software Engineer, passionate about web development. 
 - 👨‍💻 I constantly learn and explore new technologies to improve my skills.
 - 💬 Ask me about my experience with SQL, C#, LINQ, Entity Framework Core, HTML, CSS, Bootstrap, Javascript, or anything related to ASP.Net web development.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
